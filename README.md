@@ -1,0 +1,1 @@
+# spiegel-websdk-test
